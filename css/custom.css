@@ -1,0 +1,6 @@
+.mobile-menu ul li.has-sub .submenu-toggle {
+    width: 100%;
+}
+.mobile-menu ul li a {
+    display: inline;
+}
