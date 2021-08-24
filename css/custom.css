@@ -4,6 +4,9 @@
 .mobile-menu ul li a {
     display: inline;
 }
+.freebify-free-mobile-menu ul li.has-sub .submenu-toggle {
+    width: 100%;
+}
 /* Anti AdBlock By igniel.com */
 #ignielAdBlock {background:rgba(0,0,0,0.85);padding:0;position:fixed;bottom:0;left:0;top:-100px;right:0;z-index:1000;opacity:1;visibility:visible;height:auto;}
 #ignielAdBlock svg {width:100px; height:100px}
